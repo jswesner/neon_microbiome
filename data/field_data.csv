@@ -1,0 +1,35 @@
+Site Name,Site ID,Domain Name,Domain Number,State,Latitude,Longitude,Site Type,Site Subtype,mat.c,map,Dominant NLCD Classes,Elevation
+Rio Cupeyes,CUPE,Atlantic Neotropical,D04,PR,18.11352,-66.98676,Core Aquatic,Wadeable Stream,25,1168,Evergreen Forest,257 m
+Rio Guilarte,GUIL,Atlantic Neotropical,D04,PR,18.1741,-66.79851,Relocatable Aquatic,Wadeable Stream,25,1168,"Evergreen Forest, Grassland/Herbaceous",587 m
+Ordway-Swisher Biological Station - Barco Lake,BARC,Southeast,D03,FL,29.67647,-82.00909,Core Aquatic,Lake,20,1290,Shrub/Scrub,32 m
+Ordway-Swisher Biological Station - Suggs Lake,SUGG,Southeast,D03,FL,29.68705,-82.01617,Core Aquatic,Lake,20,1290,"Evergreen Forest, Woody Wetlands",32 m
+Flint River,FLNT,Southeast,D03,GA,31.18542,-84.4374,Relocatable Aquatic,Non-wadeable River,19.5,1307,Mixed Forest,45 m
+Lower Tombigbee River at Choctaw Refuge,TOMB,Ozarks Complex,D08,AL,31.8521,-88.16107,Relocatable Aquatic,Non-wadeable River,18,1429,Mixed Forest,20 m
+Black Warrior River near Dead Lake,BLWA,Ozarks Complex,D08,AL,32.54153,-87.79815,Relocatable Aquatic,Non-wadeable River,18,1290,Woody Wetlands,22 m
+Mayfield Creek,MAYF,Ozarks Complex,D08,AL,32.95966,-87.40813,Core Aquatic,Wadeable Stream,17,1350,"Deciduous Forest, Mixed Forest",96 m
+Pringle Creek,PRIN,Southern Plains,D11,TX,33.37859,-97.78226,Core Aquatic,Wadeable Stream,18,840,"Deciduous Forest, Grassland/Herbaceous",274 m
+Sycamore Creek,SYCA,Desert Southwest,D14,AZ,33.74906,-111.5069,Core Aquatic,Wadeable Stream,21,350,Shrub/Scrub,727 m
+Blue River,BLUE,Southern Plains,D11,OK,34.44422,-96.6242,Relocatable Aquatic,Wadeable Stream,16,980,"Grassland/Herbaceous, Pasture/Hay",289 m
+LeConte Creek,LECO,Appalachians & Cumberland Plateau,D07,TN,35.69043,-83.50379,Relocatable Aquatic,Wadeable Stream,13.4,1396,Deciduous Forest,579 m
+Walker Branch,WALK,Appalachians & Cumberland Plateau,D07,TN,35.95947,-84.28041,Core Aquatic,Wadeable Stream,15.3,1222,Deciduous Forest,334 m
+Teakettle 2 Creek,TECR,Pacific Southwest,D17,CA,36.95528,-119.02699,Core Aquatic,Wadeable Stream,7,941,Evergreen Forest,2011 m
+Upper Big Creek,BIGC,Pacific Southwest,D17,CA,37.058,-119.256,Relocatable Aquatic,Wadeable Stream,7,941,Evergreen Forest,1197 m
+Posey Creek,POSE,Mid-Atlantic,D02,VA,38.89332,-78.14678,Core Aquatic,Wadeable Stream,13,1054,Deciduous Forest,244 m
+McDiffett Creek,MCDI,Prairie Peninsula,D06,KS,38.94428,-96.44197,Relocatable Aquatic,Wadeable Stream,12,860,"Cultivated Crops, Grassland/Herbaceous",396 m
+Lewis Run,LEWI,Mid-Atlantic,D02,VA,39.09564,-77.98322,Relocatable Aquatic,Wadeable Stream,12,950,Deciduous Forest,152 m
+Kings Creek,KING,Prairie Peninsula,D06,KS,39.10506,-96.60336,Core Aquatic,Wadeable Stream,12,860,Deciduous Forest,366 m
+Arikaree River,ARIK,Central Plains,D10,CO,39.75825,-102.4471,Core Aquatic,Wadeable Stream,11,449,"Emergent Herbaceous Wetlands, Grassland/Herbaceous, Woody Wetlands",1213 m
+West St Louis Creek,WLOU,Southern Rockies & Colorado Plateau,D13,CO,39.89137,-105.9154,Relocatable Aquatic,Wadeable Stream,-0.3,758,Evergreen Forest,3103 m
+Como Creek,COMO,Southern Rockies & Colorado Plateau,D13,CO,40.03496,-105.54487,Core Aquatic,Wadeable Stream,-0.3,758,Shrub/Scrub,3167 m
+Red Butte Creek,REDB,Great Basin,D15,UT,40.78374,-111.79765,Core Aquatic,Wadeable Stream,9.5,713,Deciduous Forest,1742 m
+Lower Hop Brook,HOPB,Northeast,D01,MA,42.47179,-72.32963,Core Aquatic,Wadeable Stream,8,967,"Evergreen Forest, Mixed Forest",260 m
+McRae Creek,MCRA,Pacific Northwest,D16,OR,44.2596,-122.16555,Relocatable Aquatic,Wadeable Stream,10,1750,Evergreen Forest,833 m
+Blacktail Deer Creek,BLDE,Northern Rockies,D12,WY,44.95011,-110.58715,Core Aquatic,Wadeable Stream,0.2,509,"Emergent Herbaceous Wetlands, Shrub/Scrub",2053 m
+Martha Creek,MART,Pacific Northwest,D16,WA,45.79125,-121.93196,Core Aquatic,Wadeable Stream,8,2530,Evergreen Forest,434 m
+Little Rock Lake,LIRO,Great Lakes,D05,WI,45.998269,-89.704767,Relocatable Aquatic,Lake,4.4,793,"Deciduous Forest, Mixed Forest",502 m
+Crampton Lake,CRAM,Great Lakes,D05,WI,46.21111,-89.47825,Core Aquatic,Lake,3,854,Woody Wetlands,518 m
+Prairie Pothole ,PRPO,Northern Plains,D09,ND,47.12999,-99.25055,Core Aquatic,Lake,5,490,Grassland/Herbaceous,579 m
+Prairie Lake at Dakota Coteau Field School,PRLA,Northern Plains,D09,ND,47.15909,-99.11388,Relocatable Aquatic,Lake,5,490,Grassland/Herbaceous,565 m
+"Caribou Creek, Caribou-Poker Creeks Research Watershed",CARI,Taiga,D19,AK,65.15306,-147.50246,Core Aquatic,Wadeable Stream,-1,399,Woody Wetlands,263 m
+Toolik Lake,TOOK,Tundra,D18,AK,68.630692,-149.610636,Relocatable Aquatic,Lake,-4,331,Dwarf Scrub,745 m
+Oksrukuyik Creek,OKSR,Tundra,D18,AK,68.66975,-149.14302,Core Aquatic,Wadeable Stream,-4,331,Shrub/Scrub,836 m
